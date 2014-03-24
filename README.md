@@ -18,7 +18,23 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+The standard formula 
+
+    $ ratio_maker [width | height] original_width original_height [next_width | next_height]
+
+You get next_width or next_height
+
+For example
+
+    $ ratio_maker height 1200 626 300
+
+You get next_height 156.5
+
+Or
+
+    $ ratio_maker width 1200 626 50
+
+You get next_width 95.84664536741214
 
 ## Contributing
 
