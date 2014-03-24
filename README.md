@@ -1,6 +1,6 @@
 # RatioMaker
 
-TODO: Write a gem description
+Get width or height that scaling right aspect
 
 ## Installation
 
