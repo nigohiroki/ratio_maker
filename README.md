@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/nigohiroki/ratio_maker.svg?branch=master)](https://travis-ci.org/nigohiroki/ratio_maker)
 # RatioMaker
 
 Get width or height that scaling right aspect
