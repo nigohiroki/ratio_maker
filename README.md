@@ -1,4 +1,4 @@
-# RatioMaker [![Build Status](https://travis-ci.org/nigohiroki/ratio_maker.svg?branch=master)](https://travis-ci.org/nigohiroki/ratio_maker)
+# RatioMaker [![Build Status](https://travis-ci.org/nigohiroki/ratio_maker.svg?branch=master)](https://travis-ci.org/nigohiroki/ratio_maker) [![Code Climate](https://codeclimate.com/github/nigohiroki/ratio_maker.png)](https://codeclimate.com/github/nigohiroki/ratio_maker)
 
 Get width or height that scaling right aspect
 
